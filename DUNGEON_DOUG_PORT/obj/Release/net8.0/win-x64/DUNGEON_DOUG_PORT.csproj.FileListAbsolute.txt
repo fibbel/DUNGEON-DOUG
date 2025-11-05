@@ -1,0 +1,289 @@
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\1.5.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\1.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\2.5.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\2.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\3.5.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\3.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\4.5.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\4.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\5.5.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\5.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\6.5.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\6.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\7.5.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\7.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\8.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\attack.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\basic attack.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\bg.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\bigdoug.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\bigspell.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\blue slime down.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\blue slime up.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\coin bag.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\coin.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\coinbag sound.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\dash attack.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\dead.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\doug start.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\doug0down.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\doug0up.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\doug1down.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\doug1up.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\doug2down.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\doug2up.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\doug3down.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\doug3up.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\empty heart.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\flower.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\font.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\full heart.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\getting coin sound.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\getting heart.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\heartcontainer.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\heavy spell.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\helmet.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\hurt sound.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\key.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\light spell.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\locked door 0.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\locked door 1.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\locked door 2.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\locked door 3.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\longsword.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\luck.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\menuMusic.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\picking up card.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\pixel.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\slime1down.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\slime1up.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\slimehit.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\small spell.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\speed.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\spell 1 sound.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\spell 2 sound.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\spin attack.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\sword slash sound.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\sword0.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\sword1.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\sword2.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\sword3.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\title screen.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\unlocked door 0.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\unlocked door 1.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\unlocked door 2.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\unlocked door 3.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\victory.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\visor.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\wall with door 0.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\wall with door 1.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\wall with door 2.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\wall with door 3.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\wallBottom.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\wallLeft.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\wallRight.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\wallTop.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\yellow slime down.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Content\yellow slime up.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\DUNGEON_DOUG_PORT.exe
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\DUNGEON_DOUG_PORT.deps.json
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\DUNGEON_DOUG_PORT.runtimeconfig.json
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\DUNGEON_DOUG_PORT.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\DUNGEON_DOUG_PORT.pdb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\MonoGame.Framework.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\NVorbis.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\soft_oal.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\SDL2.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Microsoft.CSharp.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Microsoft.VisualBasic.Core.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Microsoft.VisualBasic.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Microsoft.Win32.Primitives.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Microsoft.Win32.Registry.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.AppContext.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Buffers.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Collections.Concurrent.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Collections.Immutable.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Collections.NonGeneric.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Collections.Specialized.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Collections.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.ComponentModel.Annotations.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.ComponentModel.DataAnnotations.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.ComponentModel.Primitives.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.ComponentModel.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Configuration.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Console.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Core.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Data.Common.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Data.DataSetExtensions.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Data.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Diagnostics.Contracts.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Diagnostics.Debug.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Diagnostics.Process.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Diagnostics.StackTrace.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Diagnostics.Tools.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Diagnostics.TraceSource.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Diagnostics.Tracing.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Drawing.Primitives.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Drawing.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Dynamic.Runtime.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Formats.Asn1.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Formats.Tar.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Globalization.Calendars.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Globalization.Extensions.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Globalization.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.IO.Compression.Brotli.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.IO.Compression.FileSystem.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.IO.Compression.ZipFile.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.IO.Compression.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.IO.FileSystem.AccessControl.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.IO.FileSystem.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.IO.IsolatedStorage.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.IO.Pipes.AccessControl.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.IO.Pipes.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.IO.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Linq.Expressions.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Linq.Parallel.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Linq.Queryable.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Linq.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Memory.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Net.Http.Json.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Net.Http.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Net.HttpListener.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Net.Mail.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Net.NameResolution.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Net.NetworkInformation.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Net.Ping.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Net.Primitives.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Net.Quic.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Net.Requests.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Net.Security.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Net.ServicePoint.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Net.Sockets.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Net.WebClient.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Net.WebHeaderCollection.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Net.WebProxy.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Net.WebSockets.Client.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Net.WebSockets.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Net.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Numerics.Vectors.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Numerics.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.ObjectModel.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Private.CoreLib.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Private.DataContractSerialization.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Private.Uri.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Private.Xml.Linq.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Private.Xml.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Reflection.DispatchProxy.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Reflection.Emit.Lightweight.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Reflection.Emit.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Reflection.Extensions.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Reflection.Metadata.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Reflection.Primitives.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Reflection.TypeExtensions.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Reflection.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Resources.Reader.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Resources.ResourceManager.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Resources.Writer.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Runtime.Extensions.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Runtime.Handles.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Runtime.InteropServices.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Runtime.Intrinsics.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Runtime.Loader.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Runtime.Numerics.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Json.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Runtime.Serialization.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Runtime.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Security.AccessControl.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Security.Claims.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Security.Cryptography.Cng.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Security.Cryptography.Csp.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Security.Cryptography.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Security.Principal.Windows.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Security.Principal.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Security.SecureString.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Security.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.ServiceModel.Web.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.ServiceProcess.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Text.Encoding.CodePages.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Text.Encoding.Extensions.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Text.Encoding.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Text.Encodings.Web.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Text.Json.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Text.RegularExpressions.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Threading.Channels.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Threading.Overlapped.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Threading.Tasks.Dataflow.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Threading.Tasks.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Threading.Thread.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Threading.ThreadPool.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Threading.Timer.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Threading.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Transactions.Local.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Transactions.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.ValueTuple.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Web.HttpUtility.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Web.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Windows.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Xml.Linq.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Xml.ReaderWriter.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Xml.Serialization.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Xml.XDocument.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Xml.XPath.XDocument.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Xml.XPath.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Xml.XmlDocument.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Xml.XmlSerializer.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.Xml.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\WindowsBase.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\mscorlib.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\netstandard.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\System.IO.Compression.Native.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\clretwrc.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\clrgc.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\clrjit.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\coreclr.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\createdump.exe
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\hostfxr.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\hostpolicy.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\mscordaccore.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\mscordaccore_amd64_amd64_8.0.1224.60305.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\mscordbi.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\mscorrc.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Release\net8.0\win-x64\msquic.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\obj\Release\net8.0\win-x64\DUNGEON_DOUG_PORT.csproj.AssemblyReference.cache
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\obj\Release\net8.0\win-x64\DUNGEON_DOUG_PORT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\obj\Release\net8.0\win-x64\DUNGEON_DOUG_PORT.AssemblyInfoInputs.cache
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\obj\Release\net8.0\win-x64\DUNGEON_DOUG_PORT.AssemblyInfo.cs
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\obj\Release\net8.0\win-x64\DUNGEON_DOUG_PORT.csproj.CoreCompileInputs.cache
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\obj\Release\net8.0\win-x64\DUNGEON_.45BB0415.Up2Date
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\obj\Release\net8.0\win-x64\DUNGEON_DOUG_PORT.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\obj\Release\net8.0\win-x64\refint\DUNGEON_DOUG_PORT.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\obj\Release\net8.0\win-x64\DUNGEON_DOUG_PORT.pdb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\obj\Release\net8.0\win-x64\DUNGEON_DOUG_PORT.genruntimeconfig.cache
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\obj\Release\net8.0\win-x64\ref\DUNGEON_DOUG_PORT.dll

@@ -1,0 +1,112 @@
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\1.5.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\1.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\2.5.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\2.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\3.5.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\3.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\4.5.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\4.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\5.5.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\5.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\6.5.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\6.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\7.5.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\7.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\8.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\attack.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\basic attack.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\bg.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\bigdoug.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\bigspell.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\blue slime down.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\blue slime up.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\coin bag.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\coin.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\coinbag sound.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\dash attack.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\dead.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\doug start.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\doug0down.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\doug0up.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\doug1down.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\doug1up.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\doug2down.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\doug2up.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\doug3down.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\doug3up.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\empty heart.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\flower.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\font.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\full heart.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\getting coin sound.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\getting heart.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\heartcontainer.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\heavy spell.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\helmet.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\hurt sound.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\key.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\light spell.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\locked door 0.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\locked door 1.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\locked door 2.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\locked door 3.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\longsword.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\luck.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\menuMusic.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\picking up card.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\pixel.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\slime1down.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\slime1up.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\slimehit.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\small spell.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\speed.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\spell 1 sound.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\spell 2 sound.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\spin attack.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\sword slash sound.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\sword0.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\sword1.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\sword2.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\sword3.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\title screen.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\unlocked door 0.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\unlocked door 1.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\unlocked door 2.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\unlocked door 3.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\victory.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\visor.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\wall with door 0.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\wall with door 1.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\wall with door 2.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\wall with door 3.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\wallBottom.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\wallLeft.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\wallRight.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\wallTop.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\yellow slime down.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\Content\yellow slime up.xnb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\DUNGEON_DOUG_PORT.exe
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\DUNGEON_DOUG_PORT.deps.json
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\DUNGEON_DOUG_PORT.runtimeconfig.json
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\DUNGEON_DOUG_PORT.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\DUNGEON_DOUG_PORT.pdb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\MonoGame.Framework.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\NVorbis.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\obj\Debug\net8.0\DUNGEON_DOUG_PORT.csproj.AssemblyReference.cache
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\obj\Debug\net8.0\DUNGEON_DOUG_PORT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\obj\Debug\net8.0\DUNGEON_DOUG_PORT.AssemblyInfoInputs.cache
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\obj\Debug\net8.0\DUNGEON_DOUG_PORT.AssemblyInfo.cs
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\obj\Debug\net8.0\DUNGEON_DOUG_PORT.csproj.CoreCompileInputs.cache
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\obj\Debug\net8.0\DUNGEON_.45BB0415.Up2Date
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\obj\Debug\net8.0\DUNGEON_DOUG_PORT.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\obj\Debug\net8.0\refint\DUNGEON_DOUG_PORT.dll
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\obj\Debug\net8.0\DUNGEON_DOUG_PORT.pdb
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\obj\Debug\net8.0\DUNGEON_DOUG_PORT.genruntimeconfig.cache
+C:\Users\finne\Desktop\DUNGEON_DOUG_PORT\DUNGEON_DOUG_PORT\obj\Debug\net8.0\ref\DUNGEON_DOUG_PORT.dll

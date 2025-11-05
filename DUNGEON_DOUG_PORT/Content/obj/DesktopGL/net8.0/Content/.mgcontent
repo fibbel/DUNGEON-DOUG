@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/1.5.wav</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/1.wav</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/2.5.wav</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/2.wav</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/3.5.wav</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/3.wav</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/4.5.wav</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/4.wav</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/5.5.wav</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/5.wav</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/6.5.wav</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/6.wav</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/7.5.wav</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/7.wav</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/8.wav</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/attack.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/basic attack.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/bg.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/bigdoug.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/bigspell.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/blue slime down.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/blue slime up.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/coin bag.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/coin.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/coinbag sound.wav</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/dash attack.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/dead.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/doug start.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/doug0down.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/doug0up.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/doug1down.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/doug1up.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/doug2down.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/doug2up.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/doug3down.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/doug3up.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/empty heart.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/flower.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/font.spritefont</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/full heart.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/getting coin sound.wav</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/getting heart.wav</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/heartcontainer.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/heavy spell.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/helmet.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/hurt sound.wav</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/key.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/light spell.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/locked door 0.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/locked door 1.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/locked door 2.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/locked door 3.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/longsword.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/luck.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/menuMusic.wav</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/picking up card.wav</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/pixel.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/slime1down.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/slime1up.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/slimehit.wav</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/small spell.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/speed.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/spell 1 sound.wav</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/spell 2 sound.wav</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/spin attack.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/sword slash sound.wav</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/sword0.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/sword1.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/sword2.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/sword3.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/title screen.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/unlocked door 0.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/unlocked door 1.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/unlocked door 2.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/unlocked door 3.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/victory.wav</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/visor.wav</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/wall with door 0.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/wall with door 1.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/wall with door 2.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/wall with door 3.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/wallBottom.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/wallLeft.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/wallRight.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/wallTop.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/yellow slime down.png</File>
+    <File>C:/Users/finne/Desktop/DUNGEON_DOUG_PORT/DUNGEON_DOUG_PORT/Content/yellow slime up.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
